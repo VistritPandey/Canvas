@@ -1,2 +1,2 @@
 # Canvas
-Plain Canvas to draw something
+It is plain canvas where you can draw something using your mouse. This was made using JS.
